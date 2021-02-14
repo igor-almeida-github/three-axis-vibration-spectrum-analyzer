@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F883 -DL -O11111114 -fo16 -N"C:\Users\igor_\Documents\Microcontroladores\PIC\Mikroc\TCC\tcc.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\igor_\Documents\Microcontroladores\PIC\Mikroc\TCC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\igor_\Documents\Microcontroladores\PIC\Mikroc\TCC\" "tcc.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 240 [bytes], Available ROM: 4096 [bytes]	 
+diagnostics: 0	122	Compilation Started	tcc.c
+diagnostics: 128	123	Compiled Successfully	tcc.c
+diagnostics: 0	127	All files Compiled in 219 ms	 
+hint: 0	1144	Used RAM (bytes): 11 (5%)  Free RAM (bytes): 229 (95%)	Used RAM (bytes): 11 (5%)  Free RAM (bytes): 229 (95%)
+hint: 0	1144	Used ROM (program words): 229 (6%)  Free ROM (program words): 3867 (94%)	Used ROM (program words): 229 (6%)  Free ROM (program words): 3867 (94%)
+diagnostics: 0	125	Project Linked Successfully	tcc.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'tcc.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 09 nov 2020, 21:49:23	tcc.mcppi

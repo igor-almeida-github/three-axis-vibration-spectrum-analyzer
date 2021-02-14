@@ -1,0 +1,7 @@
+main
+	I2C_Start
+	I2C_Write
+	I2C_Repeated_Start
+	I2C_Read
+	EUSART_write_char
+	I2C_Stop
