@@ -1,5 +1,5 @@
 # Three-axis-vibration-spectrum-analyzer-project
-> This project is a low cost three axis vibration spectrum analyzer that allows for remote and real time acquisition of the vibration data. The embedded hardware has a MEMS accelerometer and a Microchip PIC. The desktop app is being developed in Python and uses MySQL database to store information about data vibration patterns acquired.
+> This project is a low cost three axis vibration spectrum analyzer that allows for remote and real time acquisition of vibration data. The embedded hardware has a MEMS accelerometer and a Microchip PIC. The desktop app is being developed in Python and uses MySQL database to store information about data vibration patterns acquired.
 
 ## Hardware
 
